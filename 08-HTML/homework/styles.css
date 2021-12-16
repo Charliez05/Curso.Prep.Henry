@@ -1,0 +1,33 @@
+
+#todoTodito {
+    background: url("https://sevilla.abc.es/gurme/wp-content/uploads/sites/24/2016/06/paelladepollo.jpg");
+    width: 1500px;
+    margin: 0 auto;
+}
+
+.divClass{
+    margin: 0 auto;
+    padding: 20px;
+}
+
+.Nombre {
+    color:green
+}
+
+.Imagenes {
+    width: 400px;
+}
+
+#thirdDiv{
+    width: 500px;
+    height: 600px;
+    background-color: #02abaf;
+    padding: 50px;
+    border: 2px solid black;
+    margin: 0 auto;
+}
+
+#spanId {
+    font-size: 18px;
+    margin: 50px;
+}
